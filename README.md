@@ -7,7 +7,7 @@ To quickly set up th core project as a submodule in your repository and run the 
 3. Run the following command:
 
   ```sh
-  curl -sSL https://raw.githubusercontent.com/seriously-ch/core_install/main/install.sh | sh
+  curl -sSL https://raw.githubusercontent.com/seriously-ch/core_install/main/install.sh | bash
   ```
 
    This command will:

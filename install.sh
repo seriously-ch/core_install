@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-REPO_URL="git@github.com:seriously-ch/core.git"
+REPO_URL="https://github.com/seriously-ch/core.git"
 SUBMODULE_PATH=".core"
 
 # ANSI color codes

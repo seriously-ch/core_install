@@ -13,4 +13,4 @@ To quickly set up th core project as a submodule in your repository and run the 
    This command will:
    - Add the core repository as a submodule to your project
    - Initialize and update the submodule
-   - Run the `setup.exs` script to complete the setup
+   - Run the `mix core setup` script to complete the setup
